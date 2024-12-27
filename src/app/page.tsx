@@ -280,8 +280,8 @@ const Page = () => {
           >
             Projects
           </h2>
-          <div className="relative flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4 border-2 border-red-600 shadow-lg p-2 md:p-6 rounded-2xl pb-8 mb-32">
-            <div className="absolute top-[-28] right-[-15] md:top-[-35] md:right-[-20] lg:top-[-40] lg:right-[-20] ">
+          <div className="flex flex-col md:flex-row border-2 border-red-600 p-4 md:p-6 rounded-2xl mb-32">
+            <div className="relative -top-12 md:-top-16 -right-full">
               <img
                 src="./assets/star-red.svg"
                 alt="star-red-icon"
