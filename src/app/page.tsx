@@ -2,7 +2,7 @@ import React from "react";
 
 const Page = () => {
   return (
-    <div className="bg-yellow-50 text-gray-800">
+    <div className="bg-yellow-50 text-gray-800 overflow-hidden">
       <header className="sticky top-0 z-50 p-4 flex justify-between items-center bg-[#f1eee4] shadow-md">
         <h1
           className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-red-600"
@@ -414,7 +414,7 @@ const Page = () => {
 
       <footer className="p-4 bg-[#f1eee4]">
         <p className="text-center mt-4">
-          &copy; 2023 Deo. All rights reserved.
+          &copy; 2024 Deo. All rights reserved.
         </p>
       </footer>
     </div>
