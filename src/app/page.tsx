@@ -56,7 +56,7 @@ const Page = () => {
             </div>
             <div className="flex-1 mt-4 md:mt-0">
               <img
-                src="/assets/profile-1.png"
+                src="./profile-1.png"
                 alt="profile"
                 className="w-full h-auto sm:w-96 sm:h-96 md:w-128 md:h-128 lg:w-160 lg:h-160 object-cover rounded-full mx-auto"
               />
@@ -75,7 +75,7 @@ const Page = () => {
           <div className="flex flex-col md:flex-row border-red-500 border-2 shadow-lg p-4 md:p-6 rounded-2xl">
             <div className="flex-1 md:w-1/2 mb-0 md:mb-6">
               <img
-                src="/assets/experience-work.png"
+                src="./experience-work.png"
                 alt="experience-work"
                 className="w-full h-full object-cover mx-auto rounded-2xl"
               />
@@ -92,7 +92,7 @@ const Page = () => {
                   <div className="flex flex-col w-full md:w-1/2 md:pr-10 mb-0 md:mb-6">
                     <div className="flex flex-row pb-6 md:pb-12">
                       <img
-                        src="/assets/star.png"
+                        src="./star.png"
                         alt="star-icon"
                         className="w-6 h-6 mr-2"
                       />
@@ -104,7 +104,7 @@ const Page = () => {
                     </div>
                     <div className="flex mb-6">
                       <img
-                        src="/assets/star.png"
+                        src="./star.png"
                         alt="star-icon"
                         className="w-6 h-6 mr-2"
                       />
@@ -118,7 +118,7 @@ const Page = () => {
                   <div className="flex flex-col w-full md:w-1/2">
                     <div className="flex flex-row pb-6 md:pb-12">
                       <img
-                        src="/assets/star.png"
+                        src="./star.png"
                         alt="star-icon"
                         className="w-6 h-6 mr-2"
                       />
@@ -130,7 +130,7 @@ const Page = () => {
                     </div>
                     <div className="flex mb-6">
                       <img
-                        src="/assets/star.png"
+                        src="./star.png"
                         alt="star-icon"
                         className="w-6 h-6 mr-2"
                       />
@@ -154,7 +154,7 @@ const Page = () => {
                   <div className="flex flex-col w-full md:w-1/2 md:pr-10 mb-0 md:mb-6">
                     <div className="flex flex-row pb-6 md:pb-12">
                       <img
-                        src="/assets/star.png"
+                        src="./star.png"
                         alt="star-icon"
                         className="w-6 h-6 mr-2"
                       />
@@ -168,7 +168,7 @@ const Page = () => {
                   <div className="flex flex-col w-full md:w-1/2">
                     <div className="flex flex-row pb-6 md:pb-12">
                       <img
-                        src="/assets/star.png"
+                        src="./star.png"
                         alt="star-icon"
                         className="w-6 h-6 mr-2"
                       />
@@ -192,7 +192,7 @@ const Page = () => {
                   <div className="flex flex-col w-full md:w-1/2 md:pr-10 mb-0 md:mb-6">
                     <div className="flex flex-row pb-4">
                       <img
-                        src="/assets/star.png"
+                        src="./star.png"
                         alt="star-icon"
                         className="w-6 h-6 mr-2"
                       />
@@ -200,7 +200,7 @@ const Page = () => {
                     </div>
                     <div className="flex flex-row pb-4">
                       <img
-                        src="/assets/star.png"
+                        src="./star.png"
                         alt="star-icon"
                         className="w-6 h-6 mr-2"
                       />
@@ -208,7 +208,7 @@ const Page = () => {
                     </div>
                     <div className="flex flex-row pb-4">
                       <img
-                        src="/assets/star.png"
+                        src="./star.png"
                         alt="star-icon"
                         className="w-6 h-6 mr-2"
                       />
@@ -218,7 +218,7 @@ const Page = () => {
                   <div className="flex flex-col w-full md:w-1/2 mb-0 md:mb-6">
                     <div className="flex flex-row pb-4">
                       <img
-                        src="/assets/star.png"
+                        src="./star.png"
                         alt="star-icon"
                         className="w-6 h-6 mr-2"
                       />
@@ -226,7 +226,7 @@ const Page = () => {
                     </div>
                     <div className="flex flex-row pb-4">
                       <img
-                        src="/assets/star.png"
+                        src="./star.png"
                         alt="star-icon"
                         className="w-6 h-6 mr-2"
                       />
@@ -234,7 +234,7 @@ const Page = () => {
                     </div>
                     <div className="flex flex-row pb-4">
                       <img
-                        src="/assets/star.png"
+                        src="./star.png"
                         alt="star-icon"
                         className="w-6 h-6 mr-2"
                       />
@@ -244,7 +244,7 @@ const Page = () => {
                   <div className="flex flex-col w-full md:w-1/2">
                     <div className="flex flex-row pb-4">
                       <img
-                        src="/assets/star.png"
+                        src="./star.png"
                         alt="star-icon"
                         className="w-6 h-6 mr-2"
                       />
@@ -252,7 +252,7 @@ const Page = () => {
                     </div>
                     <div className="flex flex-row pb-4">
                       <img
-                        src="/assets/star.png"
+                        src="./star.png"
                         alt="star-icon"
                         className="w-6 h-6 mr-2"
                       />
@@ -260,7 +260,7 @@ const Page = () => {
                     </div>
                     <div className="flex flex-row pb-4">
                       <img
-                        src="/assets/star.png"
+                        src="./star.png"
                         alt="star-icon"
                         className="w-6 h-6 mr-2"
                       />
@@ -283,7 +283,7 @@ const Page = () => {
           <div className="relative flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4 border-2 border-red-500 shadow-lg p-2 md:p-6 rounded-2xl pb-8 mb-32">
             <div className="absolute top-[-28] right-[-15] md:top-[-35] md:right-[-20] lg:top-[-40] lg:right-[-20]">
               <img
-                src="/assets/star-red.svg"
+                src="./star-red.svg"
                 alt="star-red-icon"
                 className="w-8 h-8 md:w-10 md:h-10"
               />
@@ -301,7 +301,7 @@ const Page = () => {
                   <div className="rounded-[90%] border border-black w-full h-[40px] flex mt-2">
                     <div className="flex flex-row items-center justify-center ml-4">
                       <img
-                        src="/assets/star.png"
+                        src="./star.png"
                         alt="star-icon"
                         className="w-6 h-6 mr-2"
                       />
@@ -311,7 +311,7 @@ const Page = () => {
                   <div className="rounded-[90%] border border-black h-[40px] flex mt-2">
                     <div className="flex flex-row items-center justify-center ml-4">
                       <img
-                        src="/assets/star.png"
+                        src="./star.png"
                         alt="star-icon"
                         className="w-6 h-6 mr-2"
                       />
@@ -321,7 +321,7 @@ const Page = () => {
                   <div className="rounded-[90%] border border-black h-[40px] flex mt-2">
                     <div className="flex flex-row items-center justify-center ml-4">
                       <img
-                        src="/assets/star.png"
+                        src="./star.png"
                         alt="star-icon"
                         className="w-6 h-6 mr-2"
                       />
@@ -331,7 +331,7 @@ const Page = () => {
                   <div className="rounded-[90%] border border-black h-[40px] flex mt-2">
                     <div className="flex flex-row items-center justify-center ml-4">
                       <img
-                        src="/assets/star.png"
+                        src="./star.png"
                         alt="star-icon"
                         className="w-6 h-6 mr-2"
                       />
@@ -359,7 +359,7 @@ const Page = () => {
                 >
                   <div className="h-full border-red-500 border md:border-2 shadow-lg rounded-2xl lg:ml-4 ">
                     <img
-                      src={`/assets/${img}.png`}
+                      src={`./${img}.png`}
                       alt={`project-${img}`}
                       className="w-full h-full rounded-2xl object-cover "
                     />
