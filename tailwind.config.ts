@@ -17,4 +17,5 @@ export default {
     },
   },
   plugins: [],
+  purge: ["./src/**/*.html", "./src/**/*.js"],
 } satisfies Config;
