@@ -112,7 +112,7 @@ const Page = () => {
                     >
                       You!
                     </h3>
-                    <p className="text-lg">Let's work together!</p>
+                    <p className="text-lg">Let&apos;s work together!</p>
                   </div>
                   <div className="p-4 text-center md:text-left">
                     <i className="fas fa-envelope mr-2 text-red-600"></i>
