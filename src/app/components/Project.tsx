@@ -22,8 +22,7 @@ const Project = ({ project }: { project: Project }) => {
         />
       </div>
       <div className="flex flex-col md:flex-row border-2 border-red-600 p-4 md:p-6 rounded-2xl mb-32">
-        {/* <div className="flex border-2 border-red-600 p-4 md:p-6 rounded-2xl mb-32"> */}
-        <div className="w-full md:w-1/4">
+        <div className="w-full md:w-2/4 lg:w-1/4">
           <div className="h-auto">
             <h3
               className="justify-center text-start pb-4 text-2xl"
@@ -49,7 +48,7 @@ const Project = ({ project }: { project: Project }) => {
         {project.projectType === "Web" ? (
           <WebGallery imgList={project.projectImg} />
         ) : (
-          <MobileGallery />
+          <MobileGallery imgList={project.projectImg} />
         )}
       </div>
     </div>

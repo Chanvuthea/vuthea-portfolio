@@ -17,6 +17,38 @@ const Page = () => {
       projectImg: ["bmb-1", "bmb-2", "bmb-3", "bmb-4"],
     },
     {
+      title: "Phumic",
+      description: `Phumic is a mobile application platform that allows customers to shop
+                    and purchase organic, safe, and natural groceries from various reliable
+                    suppliers and have them delivered to customers' doorstep`,
+      projectType: "Mobile",
+      projectTc: ["React Native", "Redux", "Google Analytic", "Firebase"],
+      projectYear: "2020",
+      projectImg: ["phumic-1", "phumic-2", "phumic-3", "phumic-4"],
+    },
+    {
+      title: "Oakas",
+      description: `OAKAS (employment) app is developed to contribute to ensure inclusive employment 
+                    in Cambodia and tailored for the needs of people with different types of disabilities. 
+                    This app is an official app managed by Department Welfare of Person with Disabilities 
+                    (DWPD) of Ministry of Social Affairs, Veterans and Youth Rehabilitation (MOSVY) 
+                    supported by Australian Government through Australia-Cambodia Cooperation 
+                    for Equitable Sustainable Services (ACCESS).`,
+      projectType: "Mobile",
+      projectTc: ["React Native", "Redux", "Google Analytic", "Firebase"],
+      projectYear: "2020",
+      projectImg: ["oakas-1", "oakas-2", "oakas-3", "oakas-4"],
+    },
+    {
+      title: "KT APP",
+      description: `KT APP is an application under East West Seed Foundation, this app is in house appliction 
+                    purpose mangement of Farmers and Homegarden moreover Market size. `,
+      projectType: "Mobile",
+      projectTc: ["React Native", "Mobx", "Offline Mode"],
+      projectYear: "2022",
+      projectImg: ["kt-1", "kt-2", "kt-3", "kt-4"],
+    },
+    {
       title: "NCSD Website",
       description: `The Cambodian NCSD, established in 2015, brings together government 
                     entities to promote sustainable development. Led by the Environment Minister, 

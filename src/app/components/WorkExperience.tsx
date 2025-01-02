@@ -124,7 +124,7 @@ const WorkExperience = () => {
             >
               Skill
             </h3>
-            <div className="flex flex-col md:flex-row mb-6 justify-between">
+            <div className="flex flex-col lg:flex-row mb-6 justify-between">
               {Object.entries(skills).map(([column, skillList]) => (
                 <div
                   className="flex flex-col w-full md:w-1/2 md:pr-10 mb-0 md:mb-6"
