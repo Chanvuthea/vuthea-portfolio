@@ -35,7 +35,13 @@ const Page = () => {
                     supported by Australian Government through Australia-Cambodia Cooperation 
                     for Equitable Sustainable Services (ACCESS).`,
       projectType: "Mobile",
-      projectTc: ["React Native", "Redux", "Google Analytic", "Firebase"],
+      projectTc: [
+        "React Native",
+        "Redux",
+        "Google Analytic",
+        "Firebase",
+        "Deep Link",
+      ],
       projectYear: "2020",
       projectImg: ["oakas-1", "oakas-2", "oakas-3", "oakas-4"],
     },
@@ -58,6 +64,15 @@ const Page = () => {
       projectTc: ["Larravel", "Data portal"],
       projectYear: "2024",
       projectImg: ["ncsd"],
+    },
+    {
+      title: "Toothsmile Clinic Website",
+      description: `The Toothsmile Clinic Website, purpose to manage customer, create service, print invoice,
+                     make report more over sending daily report via telegram.`,
+      projectType: "Web",
+      projectTc: ["Node", "Type Script"],
+      projectYear: "2022",
+      projectImg: ["toothsmile-1"],
     },
   ];
 
